@@ -5,16 +5,16 @@
 ###### Web2  
 - **React** ✅
   A full-stack web application using **HTML, CSS, JavaScript**. Focused on frontend design and user experience.  
-  [Repository Link](https://github.com/codecrypto-admin/carlos-navajas/tree/react)
+  [Repository Link](URL)
 
 ###### Web2.5
 - **Faucet** ✅
   REST API developed with **Node.js** and **MongoDB**, enhancing backend capabilities.  
-  [Repository Link](https://github.com/codecrypto-admin/carlos-navajas/tree/faucet)
+  [Repository Link](URL)
 
 - **Cesta**  ✅
   Full-stack application with secure authentication and data management, built in a collaborative environment.  
-  [Repository Link](https://github.com/codecrypto-admin/carlos-navajas/tree/cesta)
+  [Repository Link](URL)
 
 ###### Web3 
 - **Oracle**  🚧
