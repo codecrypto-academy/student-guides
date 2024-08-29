@@ -1,6 +1,6 @@
 # 🎓 CodeCrypto Student Repository Guide
 
-Welcome to your personal repository for the coding academy! This repository will be used to showcase your progress, projects, and assignments. Please follow the instructions below to set up your repository, create branches, and push your work.
+This repository will provide the instructions to set up your repository, create branches, and push your work.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to your personal repository for the coding academy! This repository will
 First, clone your repository to your local machine. Use the following git command:
 
 ```bash
-git clone https://github.com/codecrypto-admin/<your-github-username>.git
+git clone https://github.com/codecrypto-academy/<your-github-username>.git
 ```
 > Replace `<your-github-username>` with your GitHub username.
 
