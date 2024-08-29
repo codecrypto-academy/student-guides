@@ -3,7 +3,7 @@
 I’m [Your Name], a student at CodeCrypto Academy. My focus is on building real-world applications with **decentralized solutions** that deliver tangible value.
 
 ##### CodeCrypto Academy Progress
-- [https://github.com/codecrypto-academy/<github-username>](URL)
+- https://github.com/codecrypto-academy/<github-username>
   
 
 ## Projects
