@@ -14,22 +14,31 @@ This repository will provide the instructions to set up your repository, create 
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-First, clone your repository to your local machine. Use the following git command:
+### 1. Initialize Your Local Repository
+Instead of cloning the entire repository, it's easier to work with individual branches in separate directories. Start by creating a new directory for your module or project and navigate to it:
 
 ```bash
-git clone https://github.com/codecrypto-academy/<your-github-username>.git
+mkdir <web[x]-module-name>
+cd <web[x]-module-name>
 ```
-> Replace `<your-github-username>` with your GitHub username.
+> Replace `<web[x]-module-name>` with the specific web section and module.
 
-### 2. Navigate to Your Repository
-Change your directory to the newly cloned repository:
+**Example:**
+
+```
+mkdir web2.5-faucet
+cd web2.5-faucet
+```
+
+
+### 2. Initialize Git and Add the Remote
+Initialize a new Git repository in the directory and add the remote repository:
 
 ```bash
-cd <repository-name>
+git init
+git remote add origin https://github.com/codecrypto-academy/<your-github-username>.git
 ```
-
-> Replace `<repository-name>` with the name of your repository.
+> Replace `<your-github-username>` with your Github account.
 
 
 
@@ -45,7 +54,7 @@ For each module or project, you will need to create a new branch. The module nam
 - `web2.5-faucet`
 - `web3-ethereum-erc-20`
 
-To create a new branch, use the following command:
+Create the new branch and start working on it:
 
 ```bash
 git checkout -b <branch-name>
@@ -65,7 +74,7 @@ Once on your branch, you can make changes, add files, and commit your work. For 
 git add .
 git commit -m "Added project files for <branch-name>"
 ```
-> Replace `<branch-name>` with the appropriate module name.
+> Replace `<branch-name>` with the appropriate name.
 
 ### 5. Push Your Branch to GitHub
 When you're ready to push your changes, use the following command:
