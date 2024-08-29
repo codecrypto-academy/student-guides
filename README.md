@@ -5,10 +5,10 @@ This repository will provide the instructions to set up your repository, create 
 
 
 ## 📋 Table of Contents
-1. [Getting Started](#getting-started)
-2. [Working with Branches](#working-with-branches)
-3. [Additional Branch Management](#additional-branch-management)
-4. [Notes](#notes)
+1. [Getting Started](#-getting-started)
+2. [Working with Branches](#-working-with-branches)
+3. [Additional Branch Management](#-additional-branch-management)
+4. [Notes](#-notes)
 
 
 
