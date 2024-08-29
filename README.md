@@ -2,7 +2,7 @@
 
 This repository will provide the instructions to set up your repository, create branches, and push your work.
 
----
+
 
 ## 📋 Table of Contents
 1. [Getting Started](#getting-started)
@@ -10,7 +10,7 @@ This repository will provide the instructions to set up your repository, create 
 3. [Additional Branch Management](#additional-branch-management)
 4. [Notes](#notes)
 
----
+
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ cd <repository-name>
 
 > Replace `<repository-name>` with the name of your repository.
 
----
+
 
 ## 🌿 Working with Branches
 
@@ -80,7 +80,7 @@ git push origin <branch-name>
 git push origin web2.5-faucet
 ```
 
----
+
 
 ## 🔄 Additional Branch Management
 
@@ -106,7 +106,7 @@ If you need to delete a branch locally or on GitHub after it's no longer needed,
   git push origin --delete <branch-name>
   ```
 
----
+
 
 ## 📝 Notes
 
