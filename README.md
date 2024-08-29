@@ -1,4 +1,4 @@
-# 🎓 CodeCrypto Student Repository
+# 🎓 CodeCrypto Student Repository Guide
 
 Welcome to your personal repository for the coding academy! This repository will be used to showcase your progress, projects, and assignments. Please follow the instructions below to set up your repository, create branches, and push your work.
 
